@@ -5,8 +5,8 @@ def divide(num1, num2):
 
 #put shit here bro
 
-number = input("choose your number to be cubed")
-print number ** 3
+def cubed(number):
+    return number ** 3
 #!/usr/bin/env python
 
 def main():
