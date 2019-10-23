@@ -1,6 +1,2 @@
-
-
-
-
-if __name__ == "__main__":
-  print("test")
+def index(a, b):
+	return a ** b
