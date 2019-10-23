@@ -1,13 +1,13 @@
 
+def div(n, m):
+   return n / m
+
 def add(a, b):
 	return a + b
-def square(n):
-  return n**2
-#put shit here bro
-#!/usr/bin/env python
 
 def multi(n, m):
     return n * m
+  
 def square(n):
 	print n ** 2
 
