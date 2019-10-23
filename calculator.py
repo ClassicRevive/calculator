@@ -26,3 +26,6 @@ def abs(x)
 
 if __name__ == "__main__":
   print("test")
+
+def percent(x):
+   return x / 100.0
