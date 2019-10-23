@@ -1,5 +1,5 @@
-
-
+def square(n):
+  return n**2
 
 
 if __name__ == "__main__":
