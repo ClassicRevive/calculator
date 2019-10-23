@@ -6,6 +6,8 @@ def square(n):
 #put shit here bro
 #!/usr/bin/env python
 
+def multi(n, m):
+    return n * m
 def square(n):
 	print n ** 2
 
