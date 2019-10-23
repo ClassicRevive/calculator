@@ -4,6 +4,8 @@ def add(a, b):
 def square(n):
   return n**2
 #put shit here bro
+def modulus(n, m):
+    return n % m
 #!/usr/bin/env python
 
 def multi(n, m):
@@ -11,6 +13,7 @@ def multi(n, m):
 def square(n):
 	print n ** 2
 
+	
 def main():
 	x = square(15)
 	print(x)
