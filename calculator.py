@@ -1,3 +1,5 @@
+def index(a, b):
+	return a ** b
 
 def div(n, m):
    return n / m
