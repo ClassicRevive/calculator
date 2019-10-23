@@ -15,6 +15,12 @@ def main():
 	x = square(15)
 	print(x)
 
+def abs(x)
+   if x < 0:
+      return x = -x
+   else:
+      return x
+	
 
 if __name__ == "__main__":
   print("test")
