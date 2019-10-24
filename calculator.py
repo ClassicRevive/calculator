@@ -25,8 +25,11 @@ class functions:
          print(x = -x)
       else:
          print(x)
-	
-
+   
+   def percent(x):
+      print(x / 100.0)
+      
+    
 if __name__ == "__main__":
 # So this main func takes in a function name and variable(s) and assigns them to variables. 
    fnc = input("What function do you want to use? ")
