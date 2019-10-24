@@ -14,11 +14,25 @@ class functions:
    def add(a,b):
       print(a + b)
 
+   def fact(x):
+      total = 1
+
+      while x != 0:
+         total = total * x
+         if x > 0:
+            x = x - 1
+         elif x < 0:
+            x = x + 1
+      return total
+
+
+
    def multi(n,m):
        print(n * m)
      
    def square(n):
       print(n ** 2)
+
 
    def abs(x):
       if x < 0:
